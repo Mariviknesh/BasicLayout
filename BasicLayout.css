@@ -7,7 +7,6 @@
     background-image: url('tomj.jpg');
     background-size: contain;
     background-repeat: no-repeat;
-    align-items: center;
     font-size: 100px;
     font-weight: bold;
     text-align: center;
@@ -51,7 +50,6 @@
     width: 90%;
     text-align: center;
     font-size: larger;
-    margin: auto;
 }
 .content
 {
